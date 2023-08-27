@@ -1,6 +1,6 @@
 package com.example.jetpackcomposeapi.data.remote.model
 
-data class GamesModel(
+data class GameModel(
     val id: Int,
     val title: String,
     val thumbnail: String,
